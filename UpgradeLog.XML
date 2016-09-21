@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AVL_tree winform">
+</Property><Property Name="Solution File" Value="C:\Users\Saeed\Desktop\AVL_tree winform\AVL_tree winform.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Saeed\Desktop\AVL_tree winform\AVL_tree winform.suo">
+</Property><Property Name="Date" Value="16 آب, 2013">
+</Property><Property Name="Time" Value="23:41 م">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AVL_tree winform.sln" Description="File successfully backed up as C:\Users\Saeed\Desktop\AVL_tree winform\AVL_tree winform.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="AVL_tree winform.suo" Description="File successfully backed up as C:\Users\Saeed\Desktop\AVL_tree winform\AVL_tree winform.suo.old">
+</Event><Event ErrorLevel="0" Project="AVL_tree winform" Source="AVL_tree winform\AVL_tree winform.vcproj" Description="Converting project file 'C:\Users\Saeed\Desktop\AVL_tree winform\AVL_tree winform\AVL_tree winform.vcproj'.">
+</Event><Event ErrorLevel="1" Project="AVL_tree winform" Source="AVL_tree winform\AVL_tree winform.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="AVL_tree winform" Source="AVL_tree winform\AVL_tree winform.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="AVL_tree winform" Source="AVL_tree winform\AVL_tree winform.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="AVL_tree winform" Source="AVL_tree winform\AVL_tree winform.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="AVL_tree winform" Source="AVL_tree winform\AVL_tree winform.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="AVL_tree winform" Source="AVL_tree winform\AVL_tree winform.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="AVL_tree winform" Source="AVL_tree winform\AVL_tree winform.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="AVL_tree winform" Source="AVL_tree winform\AVL_tree winform.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="AVL_tree winform" Source="AVL_tree winform\AVL_tree winform.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="AVL_tree winform" Source="AVL_tree winform\AVL_tree winform.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="AVL_tree winform" Source="AVL_tree winform\AVL_tree winform.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="AVL_tree winform" Source="AVL_tree winform\AVL_tree winform.vcproj" Description="Done converting to new project file 'C:\Users\Saeed\Desktop\AVL_tree winform\AVL_tree winform\AVL_tree winform.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="AVL_tree winform" Source="AVL_tree winform\AVL_tree winform.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AVL_tree winform.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AVL_tree winform.sln" Description="Converted">
+</Event></UpgradeLog>
